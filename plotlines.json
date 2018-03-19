@@ -1,0 +1,110 @@
+[
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 7, 
+    "label": {
+      "text": "Manchester, Conn."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 12, 
+    "label": {
+      "text": "Tuscon, Ariz."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 30, 
+    "label": {
+      "text": "Aurora, Colo."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 35, 
+    "label": {
+      "text": "Newtwon, Conn."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 44, 
+    "label": {
+      "text": "Washington, D.C."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 65, 
+    "label": {
+      "text": "Charleston, S.C."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 69, 
+    "label": {
+      "text": "Roseburg, Ore."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 71, 
+    "label": {
+      "text": "San Bernardino, Calif."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 77, 
+    "label": {
+      "text": "Orlando, Fla."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 93, 
+    "label": {
+      "text": "Las Vegas, Nev."
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 94, 
+    "label": {
+      "text": "Sutherland Springs, Texas"
+    }
+  }, 
+  {
+    "color": "gray", 
+    "width": 1, 
+    "dashStyle": "solid", 
+    "value": 97, 
+    "label": {
+      "text": "Parkland, Fla."
+    }
+  }
+]
